@@ -1,0 +1,17 @@
+{
+  "name": "angular",
+  "description": "Angular",
+  "main": "index.js",
+  "authors": [
+    "osviatka <svyatka@ukr.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/osviatka/Angular-theme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
